@@ -1,4 +1,5 @@
-Full change log to be added.
+See below for changelog.
+Team Builder: ![teamBuilder](https://github.com/user-attachments/assets/96c5f2b3-4457-4467-b329-33a3ef72cbdc)
 
 Tasks I'm working on next:
   Make branching evos work.
